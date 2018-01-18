@@ -16,7 +16,7 @@ h2 {
   font-family: 12px;
 }
 
-#tasks .completed
-  backgound: pink;
+#tasks .completed {
+  background-color: pink;
   text-decoration: underline;
 }
